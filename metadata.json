@@ -1,0 +1,6 @@
+{
+  "name": "Gaming IQ",
+  "description": "Mobile-first esports sensitivity calibration platform for Garena Free Fire and Krafton PUBG / BGMI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
